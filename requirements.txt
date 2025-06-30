@@ -1,0 +1,5 @@
+flask==2.3.3
+yt-dlp
+gunicorn
+requests
+beautifulsoup4
